@@ -1,0 +1,39 @@
+Shanghai and Shenzhen Stock Market Forecast for October 9, 2025 (Overall Model Forecast for the Next 5 Days): Down
+Data Cutoff: 2025-09-30
+
+Current Closing Price: 3882.7774
+
+Data Forecast Date: 2025-10-09
+
+Overall Model Forecast Summary (Next 5 Days)
+Prophet-XGBoost: Down (Probability of Up: 0.0586)
+
+Random Forest: Down (Probability of Up: 0.3018)
+
+LSTM: Up Up (Probability of Up: 0.7319)
+
+ARIMA-GARCH: Down (Probability of Up: 0.5000, Estimated Volatility: 0.0092)
+
+Darts: Down (Probability of Up: 0.3639)
+
+Combined Forecast: Down (Average Probability of Up: 0.3912)
+
+Multi-Day Forecast Details
+Forecast Days: Prophet-XGBoost, Random Forest, LSTMA, ARIMA-GARCH, and Darts Model Consensus Forecast
+
+Down in the Next Day (0.4583) Down (0.4001) Up (0.5642) Up (0.7000) N/A Down (Consistency Strength: 0.50)
+
+Up in the next 2 days: (0.5066) Down (0.3104) Up (0.5345) Up (0.7000) N/A Up (Consistency Strength: 0.75)
+
+Down in the next 3 days: (0.0615) Down (0.2624) Up (0.5170) Up (0.7000) N/A Down (Consistency Strength: 0.50)
+
+Down in the next 4 days: (0.4734) Down (0.3804) Up (0.5440) Up (0.7000) N/A Down (Consistency Strength: 0.50)
+
+Down in the next 5 days: (0.4222) Down (0.2221) Up (0.5056) Up (0.7000) N/A Down (Consistency Strength: 0.50)
+
+Notes
+Probability values ​​represent the probability of an increase, ranging from 0 to 1 (e.g., 0.4583 indicates a 45.83% chance of an increase).
+
+Consistency strength indicates the degree of agreement among the model's predicted direction (e.g., 0.50 indicates half of the models agree on that direction).
+
+The Darts model does not provide specific probabilities for multi-day forecasts (N/A).
